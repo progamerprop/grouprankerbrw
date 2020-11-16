@@ -20,10 +20,10 @@ function login() {
  
 login()
     .then(function() {
-        console.log('Logged in.');
+        console.log('Ik ben ingelogt!');
 })
     .catch(function(error) {
-      console.log(`Login error: ${error}`);
+      console.log(`Error! 404: ${error}`);
 });
 
 function isCommand(command, message){
