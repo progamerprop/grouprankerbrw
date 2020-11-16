@@ -3,7 +3,7 @@ const noblox = require('noblox.js');
 
 const client = new discord.Client()
 
-const noblox = require('noblox.js');
+
 
 
 
