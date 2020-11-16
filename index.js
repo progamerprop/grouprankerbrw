@@ -1,5 +1,6 @@
 const discord = require('discord.js');
 const noblox = require('noblox.js');
+const cookie = require('./cookie.json'),
 
 const client = new discord.Client()
 
